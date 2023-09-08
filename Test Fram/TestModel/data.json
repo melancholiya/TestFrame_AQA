@@ -1,0 +1,15 @@
+{
+
+  "BaseUrl": "https://fictadvisor.com/",
+  "LoginUrl": "https://fictadvisor.com/login",
+  "GeneralUrl": "https://fictadvisor.com/account?tab=general",
+
+
+
+
+  "UserManagement": {
+    "Username": "gavrilchikyana27@gmail.com",
+    "Password": "g111111v"
+  }
+
+}

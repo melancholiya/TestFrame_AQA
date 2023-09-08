@@ -1,0 +1,15 @@
+{
+  "BaseUrl": "https://api.fictadvisor.com/",
+  "LoginUrl": "https://fictadvisor.com/login",
+  "GeneralUrl": "https://fictadvisor.com/account?tab=general",
+  "TeachersUrl": "https://fictadvisor.com/teachers",
+
+  "UserManagement": {
+    "Username": "gavrilchikyana27@gmail.com",
+    "Password": "g111111v"
+  },
+  "TeacherManagement": {
+    "TeacherName": "Проскура"
+  }
+
+}
